@@ -1,13 +1,13 @@
 body {
   margin: 0px;
   transition: all 1s ease;
+  background:linear-gradient(45deg,#ddf8f7,#aadbdd,#f8d3c1 ,#ffb6b6);
+  background-size: 180% 180%;
+  animation: gradient 5s ease infinite;
 }
 .main {
   height: 100vh;
   width: 100%;
-  background:linear-gradient(45deg,#ddf8f7,#aadbdd,#f8d3c1 ,#ffb6b6);
-  background-size: 180% 180%;
-  animation: gradient 5s ease infinite;
   position: relative;
   display: flex;
   justify-content: center;
