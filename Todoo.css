@@ -3,6 +3,7 @@ body {
   transition: all 1s ease;
   background:linear-gradient(45deg,#ddf8f7,#aadbdd,#f8d3c1 ,#ffb6b6);
   background-size: 180% 180%;
+  background-attachment: fixed;
   animation: gradient 5s ease infinite;
 }
 .main {
