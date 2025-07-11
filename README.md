@@ -3,7 +3,7 @@
 A simple and intuitive **To-Do List** web app built with **HTML**, **CSS**, and **JavaScript**, allowing users to add, track, and manage tasks with ease.
 
 ## Demo
-Add screenshots or link to a live demo:
+link:
 https://swejal19.github.io/Todo-list/
 
 ## Features
